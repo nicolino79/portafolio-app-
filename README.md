@@ -1,1 +1,3 @@
-este es un repositorio para mi portafolio
+# repositorio
+estoy practicando 
+- Nicolas Cerusico
